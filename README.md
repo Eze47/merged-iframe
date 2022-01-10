@@ -7,4 +7,4 @@ A first and second
 
 images have been added to the code to update it
 
-We want to futher create a branch for te readme file
+We want to futher create a branch for the readme.md file
